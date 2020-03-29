@@ -21,7 +21,7 @@ Coffee shop cart list with total price using provider state management.
 - Simple and neat home screen UI
 
 ## Sources
-- [Coffee List UI Design](hhttps://www.sketchappsources.com/free-source/3438-coffee-app-sketch-freebie-resource.html) : Original UI design by Eman Tawfik.
+- [Coffee List UI Design](https://www.sketchappsources.com/free-source/3438-coffee-app-sketch-freebie-resource.html) : Original UI design by Eman Tawfik.
 
 
 ## License
