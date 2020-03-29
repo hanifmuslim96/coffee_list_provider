@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:kopilagi/item.dart';
 import 'package:kopilagi/screen_login.dart';
@@ -44,9 +46,10 @@ class _ScreenAwalState extends State<ScreenAwal> {
                 );
               },
               child: Text(
-                'Menu',
+                'Coffee List',
                 style: TextStyle(
-                  color: Color(0x99bb7f6a),
+                  color: Color(0xffbb7f6a),
+                  fontSize: 28,
                   fontWeight: FontWeight.w300,
                 ),
               ),
@@ -72,9 +75,10 @@ class _ScreenAwalState extends State<ScreenAwal> {
               child: Container(
                 decoration: BoxDecoration(),
                 child: Text(
-                  'Total Price : $formattedTP',
+                  'Total : $formattedTP',
                   style: TextStyle(
-                    fontSize: 17,
+                    fontSize: 28,
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
               ),
