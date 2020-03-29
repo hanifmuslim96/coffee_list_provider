@@ -1,16 +1,28 @@
-# kopilagi
 
-A new Flutter project.
 
-## Getting Started
+# Coffee List Provider
 
-This project is a starting point for a Flutter application.
+Coffee shop cart list with total price using provider state management. 
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Provider State Management
+- Simple but robust State Management Method, implemented in total price calculation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### One Touch Experience 
+- Easily add cart with only one touch.
+<div style="margin :auto;width: 60%;><div style="text-align:center"><img src="add_cart.gif" alt="drawing" width="200"/></div></div>
+
+### Easy Remove
+- auto remove item when quantity equal to zero
+<div style="margin :auto;width: 60%;><div style="text-align:center"><img src="remove_cart.gif" alt="drawing" width="200"/></div></div>
+
+### Simple Home Screen
+- Simple and neat home screen UI
+
+## Sources
+- [Coffee List UI Design](hhttps://www.sketchappsources.com/free-source/3438-coffee-app-sketch-freebie-resource.html) : Original UI design by Eman Tawfik.
+
+
+## License
+This project is licensed under the MIT license, Copyright (c) 2020 Muhammad Hanifan Muslim H For more information see LICENSE.md.
