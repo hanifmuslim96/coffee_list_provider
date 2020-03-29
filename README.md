@@ -25,4 +25,4 @@ Coffee shop cart list with total price using provider state management.
 
 
 ## License
-This project is licensed under the MIT license, Copyright (c) 2020 Muhammad Hanifan Muslim H For more information see [LICENSE]LICENSE.
+This project is licensed under the MIT license, Copyright (c) 2020 Muhammad Hanifan Muslim H For more information see [LICENSE](LICENSE).
